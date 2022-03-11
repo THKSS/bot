@@ -1,7 +1,7 @@
 import random
 import telebot
 import datetime
-bot = telebot.TeleBot('5296146787:AAHFXUewuK8q-NECjQbuGwAIOIaxmSKLE04')
+bot = telebot.TeleBot('ТокенБота')
 dic = {1:"Ты обворожительна!",
 2: "Ты будто сошла со страниц красивой сказки!",
 3: 'Ты – мой идеал!',
